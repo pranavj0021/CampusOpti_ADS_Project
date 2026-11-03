@@ -1,0 +1,19 @@
+lab_id,lab_name,department_code,capacity,computers_count,current_utilization,maintenance_status
+LAB-CS-1,Software Engineering Lab,CS,35,35,90.0,Operational
+LAB-CS-2,Advanced Cloud Computing Lab,CS,35,35,88.0,Operational
+LAB-CS-3,Cybersecurity & Networks Lab,CS,30,30,85.0,Operational
+LAB-AI-1,Deep Learning & GPU Supercomputing Lab,AI,35,35,95.0,Operational
+LAB-AI-2,Data Analytics & Vision Lab,AI,30,30,92.0,Operational
+LAB-EC-1,VLSI Design & Embedded Systems Lab,EC,30,30,78.0,Operational
+LAB-EC-2,Microwave & DSP Communications Lab,EC,25,20,72.0,Operational
+LAB-EC-3,IoT & Hardware Prototyping Lab,EC,30,25,80.0,Operational
+LAB-ME-1,CAD/CAM & Simulation Lab,ME,30,30,65.0,Operational
+LAB-ME-2,Thermal Systems & IC Engines Lab,ME,25,5,58.0,Operational
+LAB-ME-3,Robotics & Mechatronics Lab,ME,25,15,64.0,Needs Maintenance
+LAB-EE-1,Power Electronics & Drives Lab,EE,25,15,70.0,Operational
+LAB-EE-2,Electrical Machines & Smart Grid Lab,EE,25,10,66.0,Operational
+LAB-EE-3,Renewable Energy Simulation Lab,EE,25,25,72.0,Operational
+LAB-CE-1,Structural Mechanics & Concrete Lab,CE,25,5,50.0,Operational
+LAB-CE-2,Geotechnical & Soil Testing Lab,CE,20,5,48.0,Operational
+LAB-CE-3,"GIS, Remote Sensing & Surveying Lab",CE,25,25,55.0,Operational
+LAB-CE-4,Environmental Engineering Lab,CE,20,5,45.0,Operational

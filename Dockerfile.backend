@@ -1,0 +1,36 @@
+# ==========================================
+# CampusPredict — Flask REST API Backend
+# ==========================================
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies needed for compiling C-extensions if any
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy backend requirements and install
+COPY backend/requirements.txt ./requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy backend application source code
+COPY backend/ /app/backend/
+
+WORKDIR /app/backend
+
+# Environment variables
+ENV PYTHONUNBUFFERED=1 \
+    FLASK_HOST=0.0.0.0 \
+    FLASK_PORT=5000 \
+    DATABASE_PATH=/app/backend/campuspredict.db
+
+EXPOSE 5000
+
+# Health check against Flask API
+HEALTHCHECK --interval=10s --timeout=5s --start-period=15s --retries=3 \
+    CMD curl -f http://localhost:5000/api/health || exit 1
+
+# Production WSGI startup via waitress
+CMD ["python", "app.py"]

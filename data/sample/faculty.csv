@@ -1,0 +1,49 @@
+faculty_id,name,department_code,designation,specialization,current_teaching_hours,max_workload_hours,is_available
+FAC-CS-101,Dr. CS Faculty 1,CS,Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-102,Dr. CS Faculty 2,CS,Associate Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-103,Dr. CS Faculty 3,CS,Associate Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-104,Dr. CS Faculty 4,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-105,Dr. CS Faculty 5,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-106,Dr. CS Faculty 6,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-107,Dr. CS Faculty 7,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-108,Dr. CS Faculty 8,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-109,Dr. CS Faculty 9,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-110,Dr. CS Faculty 10,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-111,Dr. CS Faculty 11,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-112,Dr. CS Faculty 12,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-113,Dr. CS Faculty 13,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-CS-114,Dr. CS Faculty 14,CS,Assistant Professor,Prof. & Ass. Prof. in Computing,15.5,16.0,True
+FAC-AI-115,Dr. AI Faculty 1,AI,Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-116,Dr. AI Faculty 2,AI,Associate Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-117,Dr. AI Faculty 3,AI,Associate Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-118,Dr. AI Faculty 4,AI,Assistant Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-119,Dr. AI Faculty 5,AI,Assistant Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-120,Dr. AI Faculty 6,AI,Assistant Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-AI-121,Dr. AI Faculty 7,AI,Assistant Professor,Ass. Prof. & Researchers in ML/Data,16.0,16.0,True
+FAC-EC-122,Dr. EC Faculty 1,EC,Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-123,Dr. EC Faculty 2,EC,Associate Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-124,Dr. EC Faculty 3,EC,Associate Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-125,Dr. EC Faculty 4,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-126,Dr. EC Faculty 5,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-127,Dr. EC Faculty 6,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-128,Dr. EC Faculty 7,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-129,Dr. EC Faculty 8,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-EC-130,Dr. EC Faculty 9,EC,Assistant Professor,"Communication, Signal Processing, VLSI",13.8,16.0,True
+FAC-ME-131,Dr. ME Faculty 1,ME,Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-132,Dr. ME Faculty 2,ME,Associate Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-133,Dr. ME Faculty 3,ME,Associate Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-134,Dr. ME Faculty 4,ME,Assistant Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-135,Dr. ME Faculty 5,ME,Assistant Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-136,Dr. ME Faculty 6,ME,Assistant Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-ME-137,Dr. ME Faculty 7,ME,Assistant Professor,"Thermal, Robotics, Manufacturing",12.0,16.0,True
+FAC-EE-138,Dr. EE Faculty 1,EE,Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-EE-139,Dr. EE Faculty 2,EE,Associate Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-EE-140,Dr. EE Faculty 3,EE,Associate Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-EE-141,Dr. EE Faculty 4,EE,Assistant Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-EE-142,Dr. EE Faculty 5,EE,Assistant Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-EE-143,Dr. EE Faculty 6,EE,Assistant Professor,"Power Systems, Control Systems",13.0,16.0,True
+FAC-CE-144,Dr. CE Faculty 1,CE,Professor,"Structures, Geotechnical, Surveying",11.5,16.0,True
+FAC-CE-145,Dr. CE Faculty 2,CE,Associate Professor,"Structures, Geotechnical, Surveying",11.5,16.0,True
+FAC-CE-146,Dr. CE Faculty 3,CE,Associate Professor,"Structures, Geotechnical, Surveying",11.5,16.0,True
+FAC-CE-147,Dr. CE Faculty 4,CE,Assistant Professor,"Structures, Geotechnical, Surveying",11.5,16.0,True
+FAC-CE-148,Dr. CE Faculty 5,CE,Assistant Professor,"Structures, Geotechnical, Surveying",11.5,16.0,True

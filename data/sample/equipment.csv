@@ -1,0 +1,13 @@
+equipment_id,name,equipment_type,department_code,quantity,operational_count,maintenance_count,status
+EQ-CS-01,High-Performance Dell Precision Workstations,Computer,CS,110,104,6,Operational
+EQ-CS-02,Rackmounted Edge Server Nodes,Server,CS,8,7,1,Operational
+EQ-AI-01,NVIDIA A100 / RTX 4090 Deep Learning Stations,GPU Rig,AI,65,60,5,Operational
+EQ-AI-02,High-Throughput SAN Storage Array,Server,AI,4,4,0,Operational
+EQ-EC-01,Digital Storage Mixed-Signal Oscilloscopes,Oscilloscope,EC,35,31,4,Operational
+EQ-EC-02,FPGA Development Boards (Xilinx),Hardware Rig,EC,45,42,3,Operational
+EQ-ME-01,Industrial 3D Printing & Prototyping Systems,3D Printer,ME,10,8,2,Operational
+EQ-ME-02,Universal Testing Machine (UTM),Testing Rig,ME,3,2,1,Needs Calibration
+EQ-EE-01,Digital Power Quality Analyzers,Testing Rig,EE,15,13,2,Operational
+EQ-EE-02,Programmable DC Power Supplies & Loads,Power Unit,EE,25,23,2,Operational
+EQ-CE-01,Digital Total Station & Theodolites,Surveying Rig,CE,12,11,1,Operational
+EQ-CE-02,Triaxial Soil Shear Apparatus,Testing Rig,CE,4,4,0,Operational
